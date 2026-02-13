@@ -6,7 +6,7 @@ This repository contains the PDF of the paper:
 
 You can also view or download the PDF directly from this repository:
 
-[Open emcfrb2026.pdf](emcfrb2026.pdf)
+[Open E=mc_Thought_Principle_English.pdf](E=mc_Thought_Principle_English.pdf)
 
 ## Files
 - `emcfrb2026.pdf` - Published PDF
