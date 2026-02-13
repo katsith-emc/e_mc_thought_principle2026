@@ -9,7 +9,7 @@ You can also view or download the PDF directly from this repository:
 [Open E=mc_Thought_Principle_English.pdf](E=mc_Thought_Principle_English.pdf)
 
 ## Files
-- `emcfrb2026.pdf` - Published PDF
+- `E=mc_Thought_Principle_English.pdf` - Published PDF
 
 ## Citation
 If you use this paper, please cite it as:
